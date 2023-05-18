@@ -1,4 +1,4 @@
-# ComprobacionCasillasCorreo
+# Comprobacion Casillas Correo
 
 Este código verifica la validez de las direcciones de correo electrónico en un archivo de Excel en Google Drive. 
 
