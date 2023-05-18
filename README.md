@@ -10,4 +10,5 @@ Después, verifica cada dirección de correo electrónico utilizando una funció
 
 Finalmente, guarda los resultados en la segunda columna del archivo de Excel y guarda los cambios.
 
+
 Script que puede ser utilizado para cualquier lista de contactos. 
